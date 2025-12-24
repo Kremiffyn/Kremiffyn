@@ -8,6 +8,8 @@ To my interests I'd also add walking in forests/park areas and nature in general
 
 Mainly, as for now I create web applications, but in future would like to continue developing my skills into building more complex apps with java 
 
+Hobbies : Digital art, guitar, nature, home cooking
+
 ## Currently working on
 - Portfolio website using react
 - Bingo mobile app using react native for my touristic club that I'm a part of
