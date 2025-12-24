@@ -11,18 +11,14 @@ To my interests I'd also add walking in forests/park areas and nature in general
 - Polish
 - Russian
 - German (Basics)
-- Spanish (Basics)
 
 ## Technologies 
 - SQL
 - mySQL, MariaDB, Microsoft SQL Server
-- HTML
-- CSS
-- JavaScript
+- HTML, CSS, JavaScript
 - C++
 - C#
 - Python (First programming language, and I would evaluate my skills at it as intermediate)
-- Git
 
 ## Currently actively learning 
 - Java
@@ -32,4 +28,3 @@ To my interests I'd also add walking in forests/park areas and nature in general
 ## Currently working on
 - Portfolio website using react
 - Bingo mobile app using react native for my touristic club that I'm a part of
-
