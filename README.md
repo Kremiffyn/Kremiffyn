@@ -1,16 +1,35 @@
-## Hi there 👋
+# Greetings!
 
-<!--
-**Kremiffyn/Kremiffyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student of programming profile, that also loves to learn coding by himself in free time.  
 
-Here are some ideas to get you started:
+Besides love to coding, I have a passion to draw on graphical tablet in Photoshop. Sometimes even I can pick some riffs on guitar.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To my interests I'd also add walking in forests/park areas and nature in general, love to animals comes in pair with it. 
+
+## Languages
+- English
+- Polish
+- Russian
+- German (Basics)
+- Spanish (Basics)
+
+## Technologies 
+- SQL
+- mySQL, MariaDB, Microsoft SQL Server
+- HTML
+- CSS
+- JavaScript
+- C++
+- C#
+- Python (First programming language, and I would evaluate my skills at it as intermediate)
+- Git
+
+## Currently actively learning 
+- Java
+- TypeScript
+- React
+
+## Currently working on
+- Portfolio website using react
+- Bingo mobile app using react native for my touristic club that I'm a part of
+
