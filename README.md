@@ -6,7 +6,7 @@ Besides love to coding, I have a passion to draw on graphical tablet in Photosho
 
 To my interests I'd also add walking in forests/park areas and nature in general, love to animals comes in pair with it. 
 
-Mainly, as for now I create web applications, but in future would like to continue developing my skills into building apps with java 
+Mainly, as for now I create web applications, but in future would like to continue developing my skills into building more complex apps with java 
 
 ## Currently working on
 - Portfolio website using react
