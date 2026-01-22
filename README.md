@@ -11,5 +11,4 @@ Mainly, as for now I create web applications, but in future would like to contin
 Hobbies : Digital art, guitar, nature, home cooking
 
 ## Currently working on
-- Portfolio website using react
 - Bingo mobile app using react native for my touristic club that I'm a part of
